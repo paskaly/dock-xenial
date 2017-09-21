@@ -1,4 +1,4 @@
 # Xenialy
-** WORK IN PROGRESS **
+**WORK IN PROGRESS**
 
 A base Ubuntu Xenial Docker image
